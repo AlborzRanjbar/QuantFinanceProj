@@ -1,6 +1,6 @@
 # QuantFinanceProj
 
-This Project consists of a series of 4 mini projects:
+This Project is a series of 4 mini projects:
 
 1) building two stock portfolios using current data: one high-risk and one low-risk with more stable performance.”
 2) Examining whether log returns of stocks or indexes follow a normal distribution by testing for normality, analyzing the effect of removing outliers, and constructing a portfolio with more normally distributed returns. It also evaluates an existing portfolio over time to assess the stability of the normality assumption in real markets.
